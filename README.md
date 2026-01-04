@@ -9,5 +9,4 @@ Here are some ideas to get you started:
   - LLMs
   - Agent
   - Memory
-  - Personal Kit 
 - 📫 How to reach me: 3065225677@qq.com
